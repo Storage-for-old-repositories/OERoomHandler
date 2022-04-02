@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},"order":12,},
+    {"id":{"name":"spr","path":"sprites/spr/spr.yy",},"order":1,},
+    {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":0,},
+    {"id":{"name":"Room_test_Child_0","path":"rooms/Room_test_Child_0/Room_test_Child_0.yy",},"order":0,},
+    {"id":{"name":"Room_test_filter","path":"rooms/Room_test_filter/Room_test_filter.yy",},"order":0,},
+    {"id":{"name":"Room_test_child","path":"rooms/Room_test_child/Room_test_child.yy",},"order":1,},
+    {"id":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},"order":0,},
+  ],
+  "Options": [
+    {"name":"Amazon Fire","path":"options/amazonfire/options_amazonfire.yy",},
+    {"name":"Android","path":"options/android/options_android.yy",},
+    {"name":"iOS","path":"options/ios/options_ios.yy",},
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+  ],
+  "isDnDProject": false,
+  "isEcma": false,
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room_test_filter","path":"rooms/Room_test_filter/Room_test_filter.yy",},},
+    {"roomId":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},},
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"roomId":{"name":"Room_test_Child_0","path":"rooms/Room_test_Child_0/Room_test_Child_0.yy",},},
+    {"roomId":{"name":"Room_test_child","path":"rooms/Room_test_child/Room_test_child.yy",},},
+  ],
+  "Folders": [
+    {"folderPath":"folders/Rooms.yy","order":10,"resourceVersion":"1.0","name":"Rooms","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects.yy","order":11,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/OE_Ge.yy","order":13,"resourceVersion":"1.0","name":"OE_Ge","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/OE_GenerateRooms.yy","order":14,"resourceVersion":"1.0","name":"OE_GenerateRooms","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Rooms/RRR.yy","order":2,"resourceVersion":"1.0","name":"RRR","tags":[],"resourceType":"GMFolder",},
+  ],
+  "AudioGroups": [
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2022.2.1.618",
+  },
+  "resourceVersion": "1.5",
+  "name": "Room",
+  "tags": [],
+  "resourceType": "GMProject",
+}
